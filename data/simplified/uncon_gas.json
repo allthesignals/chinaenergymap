@@ -1,0 +1,146 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "OBJECTID": 1, "TYPE": "Coal gas", "Province": "Anhui", "Pop_2007": 61200000.0, "GDP_Yuan": 12037.0, "Trade_Doll": 12245.0, "Minority": 0.001, "Urban": 0.39, "Area_km": 140455.0, "Pop_Dense": 435.727 }, "geometry": { "type": "Point", "coordinates": [ 116.71872711200001, 32.71445465100004 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "OBJECTID": 2, "TYPE": "Coal gas", "Province": "Anhui", "Pop_2007": 61200000.0, "GDP_Yuan": 12037.0, "Trade_Doll": 12245.0, "Minority": 0.001, "Urban": 0.39, "Area_km": 140455.0, "Pop_Dense": 435.727 }, "geometry": { "type": "Point", "coordinates": [ 116.657966614000088, 32.944957733000024 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "OBJECTID": 3, "TYPE": "Coal gas", "Province": "Anhui", "Pop_2007": 61200000.0, "GDP_Yuan": 12037.0, "Trade_Doll": 12245.0, "Minority": 0.001, "Urban": 0.39, "Area_km": 140455.0, "Pop_Dense": 435.727 }, "geometry": { "type": "Point", "coordinates": [ 116.591400146000069, 33.622394562000068 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "OBJECTID": 4, "TYPE": "Coal gas", "Province": "Anhui", "Pop_2007": 61200000.0, "GDP_Yuan": 12037.0, "Trade_Doll": 12245.0, "Minority": 0.001, "Urban": 0.39, "Area_km": 140455.0, "Pop_Dense": 435.727 }, "geometry": { "type": "Point", "coordinates": [ 116.766380310000045, 34.140354156000058 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "OBJECTID": 5, "TYPE": "Coal gas", "Province": "Beijing", "Pop_2007": 16300000.0, "GDP_Yuan": 57277.0, "Trade_Doll": 158037.0, "Minority": 0.04, "Urban": 0.85, "Area_km": 16808.0, "Pop_Dense": 969.776 }, "geometry": { "type": "Point", "coordinates": [ 115.598548889000085, 39.983093262000068 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "OBJECTID": 6, "TYPE": "Coal gas", "Province": "Chongqing", "Pop_2007": 28200000.0, "GDP_Yuan": 14640.0, "Trade_Doll": 5470.0, "Minority": 0.07, "Urban": 0.48, "Area_km": 82403.0, "Pop_Dense": 342.221 }, "geometry": { "type": "Point", "coordinates": [ 106.03916931200007, 29.515314102000048 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "OBJECTID": 7, "TYPE": "Coal gas", "Province": "Gansu", "Pop_2007": 26200000.0, "GDP_Yuan": 3825.0, "Trade_Doll": 51563.0, "Minority": 0.09, "Urban": 0.32, "Area_km": 459233.0, "Pop_Dense": 57.0517 }, "geometry": { "type": "Point", "coordinates": [ 102.237083435000045, 34.436870575000057 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "OBJECTID": 8, "TYPE": "Coal gas", "Province": "Gansu", "Pop_2007": 26200000.0, "GDP_Yuan": 3825.0, "Trade_Doll": 51563.0, "Minority": 0.09, "Urban": 0.32, "Area_km": 459233.0, "Pop_Dense": 57.0517 }, "geometry": { "type": "Point", "coordinates": [ 104.76950073200004, 36.831436157000041 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "OBJECTID": 9, "TYPE": "Oil shale", "Province": "Guangdong", "Pop_2007": 94500000.0, "GDP_Yuan": 527199.0, "Trade_Doll": 13257932.0, "Minority": 0.02, "Urban": 0.63, "Area_km": 178341.0, "Pop_Dense": 529.884 }, "geometry": { "type": "Point", "coordinates": [ 110.511131287000069, 21.881090164000057 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "OBJECTID": 10, "TYPE": "Oil shale", "Province": "Guangdong", "Pop_2007": 94500000.0, "GDP_Yuan": 527199.0, "Trade_Doll": 13257932.0, "Minority": 0.02, "Urban": 0.63, "Area_km": 178341.0, "Pop_Dense": 529.884 }, "geometry": { "type": "Point", "coordinates": [ 110.76914215100004, 21.804637909000064 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "OBJECTID": 11, "TYPE": "Oil shale", "Province": "Guangdong", "Pop_2007": 94500000.0, "GDP_Yuan": 527199.0, "Trade_Doll": 13257932.0, "Minority": 0.02, "Urban": 0.63, "Area_km": 178341.0, "Pop_Dense": 529.884 }, "geometry": { "type": "Point", "coordinates": [ 110.941459656000063, 21.688123703000031 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "OBJECTID": 12, "TYPE": "Coal gas", "Province": "Guangdong", "Pop_2007": 94500000.0, "GDP_Yuan": 527199.0, "Trade_Doll": 13257932.0, "Minority": 0.02, "Urban": 0.63, "Area_km": 178341.0, "Pop_Dense": 529.884 }, "geometry": { "type": "Point", "coordinates": [ 112.867881775000114, 25.32299232500003 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "OBJECTID": 13, "TYPE": "Coal gas", "Province": "Guangxi", "Pop_2007": 47700000.0, "GDP_Yuan": 12491.0, "Trade_Doll": 6668.0, "Minority": 0.38, "Urban": 0.36, "Area_km": 235001.0, "Pop_Dense": 202.978 }, "geometry": { "type": "Point", "coordinates": [ 108.15354919400005, 25.356607437000036 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "OBJECTID": 14, "TYPE": "Coal gas", "Province": "Guangxi", "Pop_2007": 47700000.0, "GDP_Yuan": 12491.0, "Trade_Doll": 6668.0, "Minority": 0.38, "Urban": 0.36, "Area_km": 235001.0, "Pop_Dense": 202.978 }, "geometry": { "type": "Point", "coordinates": [ 108.915428162000069, 25.025829315000067 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "OBJECTID": 15, "TYPE": "Coal gas", "Province": "Guangxi", "Pop_2007": 47700000.0, "GDP_Yuan": 12491.0, "Trade_Doll": 6668.0, "Minority": 0.38, "Urban": 0.36, "Area_km": 235001.0, "Pop_Dense": 202.978 }, "geometry": { "type": "Point", "coordinates": [ 109.41632080100004, 24.580623627000023 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "OBJECTID": 16, "TYPE": "Coal gas", "Province": "Guizhou", "Pop_2007": 37600000.0, "GDP_Yuan": 7280.0, "Trade_Doll": 1618.0, "Minority": 0.38, "Urban": 0.28, "Area_km": 174976.0, "Pop_Dense": 214.887 }, "geometry": { "type": "Point", "coordinates": [ 104.516799927000079, 26.627792358000079 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "OBJECTID": 17, "TYPE": "Coal gas", "Province": "Guizhou", "Pop_2007": 37600000.0, "GDP_Yuan": 7280.0, "Trade_Doll": 1618.0, "Minority": 0.38, "Urban": 0.28, "Area_km": 174976.0, "Pop_Dense": 214.887 }, "geometry": { "type": "Point", "coordinates": [ 105.06601715100004, 26.358058929000038 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "OBJECTID": 18, "TYPE": "Coal gas", "Province": "Guizhou", "Pop_2007": 37600000.0, "GDP_Yuan": 7280.0, "Trade_Doll": 1618.0, "Minority": 0.38, "Urban": 0.28, "Area_km": 174976.0, "Pop_Dense": 214.887 }, "geometry": { "type": "Point", "coordinates": [ 105.363121033000084, 26.317399979000072 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "OBJECTID": 19, "TYPE": "Coal gas", "Province": "Guizhou", "Pop_2007": 37600000.0, "GDP_Yuan": 7280.0, "Trade_Doll": 1618.0, "Minority": 0.38, "Urban": 0.28, "Area_km": 174976.0, "Pop_Dense": 214.887 }, "geometry": { "type": "Point", "coordinates": [ 104.856811523000033, 25.194074631000035 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "OBJECTID": 20, "TYPE": "Coal gas", "Province": "Guizhou", "Pop_2007": 37600000.0, "GDP_Yuan": 7280.0, "Trade_Doll": 1618.0, "Minority": 0.38, "Urban": 0.28, "Area_km": 174976.0, "Pop_Dense": 214.887 }, "geometry": { "type": "Point", "coordinates": [ 106.652046204000044, 27.22728920000003 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "OBJECTID": 21, "TYPE": "Oil shale", "Province": "Hainan", "Pop_2007": 8500000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 2846.0, "Minority": 0.17, "Urban": 0.47, "Area_km": 60438.0, "Pop_Dense": 140.64 }, "geometry": { "type": "Point", "coordinates": [ 109.630012512000064, 19.900619507000044 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "OBJECTID": 22, "TYPE": "Coal gas", "Province": "Hebei", "Pop_2007": 69400000.0, "GDP_Yuan": 19746.0, "Trade_Doll": 18531.0, "Minority": 0.04, "Urban": 0.4, "Area_km": 187240.0, "Pop_Dense": 370.647 }, "geometry": { "type": "Point", "coordinates": [ 114.301467896000077, 36.671615601000042 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "OBJECTID": 23, "TYPE": "Coal gas", "Province": "Hebei", "Pop_2007": 69400000.0, "GDP_Yuan": 19746.0, "Trade_Doll": 18531.0, "Minority": 0.04, "Urban": 0.4, "Area_km": 187240.0, "Pop_Dense": 370.647 }, "geometry": { "type": "Point", "coordinates": [ 114.431739807000099, 37.399517059000061 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "OBJECTID": 24, "TYPE": "Coal gas", "Province": "Hebei", "Pop_2007": 69400000.0, "GDP_Yuan": 19746.0, "Trade_Doll": 18531.0, "Minority": 0.04, "Urban": 0.4, "Area_km": 187240.0, "Pop_Dense": 370.647 }, "geometry": { "type": "Point", "coordinates": [ 115.456512451000094, 40.440132141000049 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "OBJECTID": 25, "TYPE": "Coal gas", "Province": "Hebei", "Pop_2007": 69400000.0, "GDP_Yuan": 19746.0, "Trade_Doll": 18531.0, "Minority": 0.04, "Urban": 0.4, "Area_km": 187240.0, "Pop_Dense": 370.647 }, "geometry": { "type": "Point", "coordinates": [ 118.340087891000053, 39.610378265000065 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "OBJECTID": 26, "TYPE": "Coal gas", "Province": "Heilongjiang", "Pop_2007": 38200000.0, "GDP_Yuan": 18475.0, "Trade_Doll": 12857.0, "Minority": 0.05, "Urban": 0.54, "Area_km": 431767.0, "Pop_Dense": 88.4736 }, "geometry": { "type": "Point", "coordinates": [ 129.998062134000065, 44.814228058000026 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "OBJECTID": 27, "TYPE": "Coal gas", "Province": "Heilongjiang", "Pop_2007": 38200000.0, "GDP_Yuan": 18475.0, "Trade_Doll": 12857.0, "Minority": 0.05, "Urban": 0.54, "Area_km": 431767.0, "Pop_Dense": 88.4736 }, "geometry": { "type": "Point", "coordinates": [ 130.884933472000057, 45.326057434000063 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "OBJECTID": 28, "TYPE": "Coal gas", "Province": "Heilongjiang", "Pop_2007": 38200000.0, "GDP_Yuan": 18475.0, "Trade_Doll": 12857.0, "Minority": 0.05, "Urban": 0.54, "Area_km": 431767.0, "Pop_Dense": 88.4736 }, "geometry": { "type": "Point", "coordinates": [ 130.874740601000099, 45.767539978000059 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "OBJECTID": 29, "TYPE": "Coal gas", "Province": "Heilongjiang", "Pop_2007": 38200000.0, "GDP_Yuan": 18475.0, "Trade_Doll": 12857.0, "Minority": 0.05, "Urban": 0.54, "Area_km": 431767.0, "Pop_Dense": 88.4736 }, "geometry": { "type": "Point", "coordinates": [ 131.066329956000118, 46.291904449000072 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "OBJECTID": 30, "TYPE": "Coal gas", "Province": "Henan", "Pop_2007": 93600000.0, "GDP_Yuan": 16039.0, "Trade_Doll": 9795.0, "Minority": 0.01, "Urban": 0.34, "Area_km": 166310.0, "Pop_Dense": 562.804 }, "geometry": { "type": "Point", "coordinates": [ 111.651649475000056, 34.882358551000038 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "OBJECTID": 31, "TYPE": "Coal gas", "Province": "Henan", "Pop_2007": 93600000.0, "GDP_Yuan": 16039.0, "Trade_Doll": 9795.0, "Minority": 0.01, "Urban": 0.34, "Area_km": 166310.0, "Pop_Dense": 562.804 }, "geometry": { "type": "Point", "coordinates": [ 113.202201843000012, 35.209419250000053 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "OBJECTID": 32, "TYPE": "Coal gas", "Province": "Hubei", "Pop_2007": 57000000.0, "GDP_Yuan": 16197.0, "Trade_Doll": 11762.0, "Minority": 0.04, "Urban": 0.44, "Area_km": 185673.0, "Pop_Dense": 306.991 }, "geometry": { "type": "Point", "coordinates": [ 109.732482910000044, 30.731672287000038 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "OBJECTID": 33, "TYPE": "Coal gas", "Province": "Hunan", "Pop_2007": 63600000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 7352.0, "Minority": 0.1, "Urban": 0.4, "Area_km": 211231.0, "Pop_Dense": 301.092 }, "geometry": { "type": "Point", "coordinates": [ 112.848159790000068, 26.209291458000052 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "OBJECTID": 34, "TYPE": "Coal gas", "Province": "Hunan", "Pop_2007": 63600000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 7352.0, "Minority": 0.1, "Urban": 0.4, "Area_km": 211231.0, "Pop_Dense": 301.092 }, "geometry": { "type": "Point", "coordinates": [ 112.445396423000034, 25.659362793000071 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "OBJECTID": 35, "TYPE": "Coal gas", "Province": "Hunan", "Pop_2007": 63600000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 7352.0, "Minority": 0.1, "Urban": 0.4, "Area_km": 211231.0, "Pop_Dense": 301.092 }, "geometry": { "type": "Point", "coordinates": [ 112.711746216000051, 25.717546463000076 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "OBJECTID": 36, "TYPE": "Coal gas", "Province": "Hunan", "Pop_2007": 63600000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 7352.0, "Minority": 0.1, "Urban": 0.4, "Area_km": 211231.0, "Pop_Dense": 301.092 }, "geometry": { "type": "Point", "coordinates": [ 110.686668396000073, 26.836914062000062 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "OBJECTID": 37, "TYPE": "Coal gas", "Province": "Hunan", "Pop_2007": 63600000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 7352.0, "Minority": 0.1, "Urban": 0.4, "Area_km": 211231.0, "Pop_Dense": 301.092 }, "geometry": { "type": "Point", "coordinates": [ 111.079643250000061, 27.234546661000024 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "OBJECTID": 38, "TYPE": "Coal gas", "Province": "Hunan", "Pop_2007": 63600000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 7352.0, "Minority": 0.1, "Urban": 0.4, "Area_km": 211231.0, "Pop_Dense": 301.092 }, "geometry": { "type": "Point", "coordinates": [ 111.458717346000071, 27.207250595000062 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "OBJECTID": 39, "TYPE": "Coal gas", "Province": "Jiangsu", "Pop_2007": 76300000.0, "GDP_Yuan": 33759.0, "Trade_Doll": 283978.0, "Minority": 0.0, "Urban": 0.53, "Area_km": 98285.0, "Pop_Dense": 776.314 }, "geometry": { "type": "Point", "coordinates": [ 117.327400208000086, 34.406471252000074 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "OBJECTID": 40, "TYPE": "Coal gas", "Province": "Jiangxi", "Pop_2007": 43700000.0, "GDP_Yuan": 12592.0, "Trade_Doll": 6195.0, "Minority": 0.0, "Urban": 0.4, "Area_km": 171041.0, "Pop_Dense": 255.494 }, "geometry": { "type": "Point", "coordinates": [ 113.666580200000112, 27.668340683000054 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "OBJECTID": 41, "TYPE": "Coal gas", "Province": "Jiangxi", "Pop_2007": 43700000.0, "GDP_Yuan": 12592.0, "Trade_Doll": 6195.0, "Minority": 0.0, "Urban": 0.4, "Area_km": 171041.0, "Pop_Dense": 255.494 }, "geometry": { "type": "Point", "coordinates": [ 115.671096802000079, 28.33093261700003 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "OBJECTID": 42, "TYPE": "Coal gas", "Province": "Jiangxi", "Pop_2007": 43700000.0, "GDP_Yuan": 12592.0, "Trade_Doll": 6195.0, "Minority": 0.0, "Urban": 0.4, "Area_km": 171041.0, "Pop_Dense": 255.494 }, "geometry": { "type": "Point", "coordinates": [ 117.497413635000044, 29.276252747000058 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "OBJECTID": 43, "TYPE": "Oil shale", "Province": "Jilin", "Pop_2007": 27300000.0, "GDP_Yuan": 19358.0, "Trade_Doll": 7914.0, "Minority": 0.09, "Urban": 0.53, "Area_km": 191038.0, "Pop_Dense": 142.904 }, "geometry": { "type": "Point", "coordinates": [ 126.602767944000107, 42.644275665000066 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "OBJECTID": 44, "TYPE": "Oil shale", "Province": "Jilin", "Pop_2007": 27300000.0, "GDP_Yuan": 19358.0, "Trade_Doll": 7914.0, "Minority": 0.09, "Urban": 0.53, "Area_km": 191038.0, "Pop_Dense": 142.904 }, "geometry": { "type": "Point", "coordinates": [ 124.926856995000094, 44.027069092000033 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "OBJECTID": 45, "TYPE": "Oil shale", "Province": "Jilin", "Pop_2007": 27300000.0, "GDP_Yuan": 19358.0, "Trade_Doll": 7914.0, "Minority": 0.09, "Urban": 0.53, "Area_km": 191038.0, "Pop_Dense": 142.904 }, "geometry": { "type": "Point", "coordinates": [ 125.121597290000068, 44.388359070000035 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "OBJECTID": 46, "TYPE": "Oil shale", "Province": "Jilin", "Pop_2007": 27300000.0, "GDP_Yuan": 19358.0, "Trade_Doll": 7914.0, "Minority": 0.09, "Urban": 0.53, "Area_km": 191038.0, "Pop_Dense": 142.904 }, "geometry": { "type": "Point", "coordinates": [ 124.595001221000075, 45.104801178000059 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "OBJECTID": 47, "TYPE": "Coal gas", "Province": "Liaoning", "Pop_2007": 43000000.0, "GDP_Yuan": 25648.0, "Trade_Doll": 48390.0, "Minority": 0.16, "Urban": 0.59, "Area_km": 147451.0, "Pop_Dense": 291.622 }, "geometry": { "type": "Point", "coordinates": [ 120.659111023000037, 41.120979309000063 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "OBJECTID": 48, "TYPE": "Coal gas", "Province": "Liaoning", "Pop_2007": 43000000.0, "GDP_Yuan": 25648.0, "Trade_Doll": 48390.0, "Minority": 0.16, "Urban": 0.59, "Area_km": 147451.0, "Pop_Dense": 291.622 }, "geometry": { "type": "Point", "coordinates": [ 120.820442200000116, 41.908863068000073 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "OBJECTID": 49, "TYPE": "Coal gas", "Province": "Liaoning", "Pop_2007": 43000000.0, "GDP_Yuan": 25648.0, "Trade_Doll": 48390.0, "Minority": 0.16, "Urban": 0.59, "Area_km": 147451.0, "Pop_Dense": 291.622 }, "geometry": { "type": "Point", "coordinates": [ 121.672760010000047, 41.979434967000032 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "OBJECTID": 50, "TYPE": "Oil shale", "Province": "Liaoning", "Pop_2007": 43000000.0, "GDP_Yuan": 25648.0, "Trade_Doll": 48390.0, "Minority": 0.16, "Urban": 0.59, "Area_km": 147451.0, "Pop_Dense": 291.622 }, "geometry": { "type": "Point", "coordinates": [ 124.174308777000078, 41.673786163000045 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "OBJECTID": 51, "TYPE": "Coal gas", "Province": "Liaoning", "Pop_2007": 43000000.0, "GDP_Yuan": 25648.0, "Trade_Doll": 48390.0, "Minority": 0.16, "Urban": 0.59, "Area_km": 147451.0, "Pop_Dense": 291.622 }, "geometry": { "type": "Point", "coordinates": [ 123.977317810000045, 41.891468048000036 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "OBJECTID": 52, "TYPE": "Coal gas", "Province": "Liaoning", "Pop_2007": 43000000.0, "GDP_Yuan": 25648.0, "Trade_Doll": 48390.0, "Minority": 0.16, "Urban": 0.59, "Area_km": 147451.0, "Pop_Dense": 291.622 }, "geometry": { "type": "Point", "coordinates": [ 123.575187683000081, 41.973217010000042 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "OBJECTID": 53, "TYPE": "Coal gas", "Province": "Nei Mongol", "Pop_2007": 24100000.0, "GDP_Yuan": 25327.0, "Trade_Doll": 5961.0, "Minority": 0.21, "Urban": 0.5, "Area_km": 1181104.0, "Pop_Dense": 20.4046 }, "geometry": { "type": "Point", "coordinates": [ 105.99282074000007, 39.13090896600005 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "OBJECTID": 54, "TYPE": "Coal gas", "Province": "Ningxia", "Pop_2007": 6100000.0, "GDP_Yuan": 14577.0, "Trade_Doll": 1437.0, "Minority": 0.35, "Urban": 0.44, "Area_km": 52188.0, "Pop_Dense": 116.885 }, "geometry": { "type": "Point", "coordinates": [ 106.702751160000048, 39.250663757000041 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "OBJECTID": 55, "TYPE": "Coal gas", "Province": "Ningxia", "Pop_2007": 6100000.0, "GDP_Yuan": 14577.0, "Trade_Doll": 1437.0, "Minority": 0.35, "Urban": 0.44, "Area_km": 52188.0, "Pop_Dense": 116.885 }, "geometry": { "type": "Point", "coordinates": [ 106.338912964000087, 39.12120056200007 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "OBJECTID": 56, "TYPE": "Coal gas", "Province": "Qinghai", "Pop_2007": 5500000.0, "GDP_Yuan": 14196.0, "Trade_Doll": 652.0, "Minority": 0.46, "Urban": 0.4, "Area_km": 720459.0, "Pop_Dense": 7.63402 }, "geometry": { "type": "Point", "coordinates": [ 101.077362061000088, 32.999744415000066 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "OBJECTID": 57, "TYPE": "Coal gas", "Province": "Shaanxi", "Pop_2007": 37500000.0, "GDP_Yuan": 14583.0, "Trade_Doll": 5360.0, "Minority": 0.01, "Urban": 0.41, "Area_km": 204846.0, "Pop_Dense": 183.064 }, "geometry": { "type": "Point", "coordinates": [ 108.913871765000067, 34.961906433000024 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "OBJECTID": 58, "TYPE": "Coal gas", "Province": "Shaanxi", "Pop_2007": 37500000.0, "GDP_Yuan": 14583.0, "Trade_Doll": 5360.0, "Minority": 0.01, "Urban": 0.41, "Area_km": 204846.0, "Pop_Dense": 183.064 }, "geometry": { "type": "Point", "coordinates": [ 110.46016693100006, 35.628978729000039 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "OBJECTID": 59, "TYPE": "Coal gas", "Province": "Shaanxi", "Pop_2007": 37500000.0, "GDP_Yuan": 14583.0, "Trade_Doll": 5360.0, "Minority": 0.01, "Urban": 0.41, "Area_km": 204846.0, "Pop_Dense": 183.064 }, "geometry": { "type": "Point", "coordinates": [ 109.059402466000051, 35.197444916000052 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "OBJECTID": 60, "TYPE": "Coal gas", "Province": "Shandong", "Pop_2007": 93700000.0, "GDP_Yuan": 27721.0, "Trade_Doll": 95214.0, "Minority": 0.01, "Urban": 0.47, "Area_km": 156219.0, "Pop_Dense": 599.799 }, "geometry": { "type": "Point", "coordinates": [ 118.21247100800008, 36.611278534000064 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "OBJECTID": 61, "TYPE": "Oil shale", "Province": "Shandong", "Pop_2007": 93700000.0, "GDP_Yuan": 27721.0, "Trade_Doll": 95214.0, "Minority": 0.01, "Urban": 0.47, "Area_km": 156219.0, "Pop_Dense": 599.799 }, "geometry": { "type": "Point", "coordinates": [ 118.623443604000045, 36.656852722000053 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "OBJECTID": 62, "TYPE": "Coal gas", "Province": "Shanxi", "Pop_2007": 33900000.0, "GDP_Yuan": 16898.0, "Trade_Doll": 6627.0, "Minority": 0.0, "Urban": 0.44, "Area_km": 149708.0, "Pop_Dense": 226.441 }, "geometry": { "type": "Point", "coordinates": [ 112.840148926000097, 35.423088074000077 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "OBJECTID": 63, "TYPE": "Coal gas", "Province": "Shanxi", "Pop_2007": 33900000.0, "GDP_Yuan": 16898.0, "Trade_Doll": 6627.0, "Minority": 0.0, "Urban": 0.44, "Area_km": 149708.0, "Pop_Dense": 226.441 }, "geometry": { "type": "Point", "coordinates": [ 113.484893799000019, 37.982513428000061 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "OBJECTID": 64, "TYPE": "Coal gas", "Province": "Shanxi", "Pop_2007": 33900000.0, "GDP_Yuan": 16898.0, "Trade_Doll": 6627.0, "Minority": 0.0, "Urban": 0.44, "Area_km": 149708.0, "Pop_Dense": 226.441 }, "geometry": { "type": "Point", "coordinates": [ 112.26113891600005, 37.857444763000046 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "OBJECTID": 65, "TYPE": "Coal gas", "Province": "Shanxi", "Pop_2007": 33900000.0, "GDP_Yuan": 16898.0, "Trade_Doll": 6627.0, "Minority": 0.0, "Urban": 0.44, "Area_km": 149708.0, "Pop_Dense": 226.441 }, "geometry": { "type": "Point", "coordinates": [ 112.605651855000019, 39.023433685000043 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "OBJECTID": 66, "TYPE": "Coal gas", "Province": "Shanxi", "Pop_2007": 33900000.0, "GDP_Yuan": 16898.0, "Trade_Doll": 6627.0, "Minority": 0.0, "Urban": 0.44, "Area_km": 149708.0, "Pop_Dense": 226.441 }, "geometry": { "type": "Point", "coordinates": [ 113.177223206, 40.172534943000073 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "OBJECTID": 67, "TYPE": "Coal gas", "Province": "Sichuan", "Pop_2007": 81300000.0, "GDP_Yuan": 12926.0, "Trade_Doll": 11021.0, "Minority": 0.05, "Urban": 0.36, "Area_km": 491146.0, "Pop_Dense": 165.531 }, "geometry": { "type": "Point", "coordinates": [ 105.474372864000088, 27.840074539000057 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "OBJECTID": 68, "TYPE": "Coal gas", "Province": "Sichuan", "Pop_2007": 81300000.0, "GDP_Yuan": 12926.0, "Trade_Doll": 11021.0, "Minority": 0.05, "Urban": 0.36, "Area_km": 491146.0, "Pop_Dense": 165.531 }, "geometry": { "type": "Point", "coordinates": [ 105.347122192000086, 29.234479904000068 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "OBJECTID": 69, "TYPE": "Coal gas", "Province": "Yunnan", "Pop_2007": 45100000.0, "GDP_Yuan": 10504.0, "Trade_Doll": 6225.0, "Minority": 0.33, "Urban": 0.32, "Area_km": 388610.0, "Pop_Dense": 116.055 }, "geometry": { "type": "Point", "coordinates": [ 104.224960327000076, 25.730058670000062 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "OBJECTID": 70, "TYPE": "Coal gas", "Province": "Yunnan", "Pop_2007": 45100000.0, "GDP_Yuan": 10504.0, "Trade_Doll": 6225.0, "Minority": 0.33, "Urban": 0.32, "Area_km": 388610.0, "Pop_Dense": 116.055 }, "geometry": { "type": "Point", "coordinates": [ 104.203048706000061, 26.458328247000054 ] } }
+
+]
+}

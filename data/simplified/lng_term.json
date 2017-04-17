@@ -1,0 +1,34 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "OBJECTID": 1, "NAME_ENG": "Fujian Putian LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/fujian-lng-terminal", "ANN_CAP": 2.6, "OBJECTID_1": 4, "Province": "Fujian", "Pop_2007": 35800000.0, "GDP_Yuan": 62600.0, "Trade_Doll": 1925536.0, "Minority": 0.02, "Urban": 0.49, "Area_km": 122919.0, "Pop_Dense": 291.249 }, "geometry": { "type": "Point", "coordinates": [ 118.995182645000114, 25.21661745800003 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "OBJECTID": 2, "NAME_ENG": "Guangdong Dapeng LNG", "LINK": "http:\/\/www.dplng.com\/en\/index.aspx", "ANN_CAP": 3.7, "OBJECTID_1": 6, "Province": "Guangdong", "Pop_2007": 94500000.0, "GDP_Yuan": 527199.0, "Trade_Doll": 13257932.0, "Minority": 0.02, "Urban": 0.63, "Area_km": 178341.0, "Pop_Dense": 529.884 }, "geometry": { "type": "Point", "coordinates": [ 114.437003742000115, 22.576521546000038 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "OBJECTID": 3, "NAME_ENG": "Jieyang Huilai LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/jieyang-lng-terminal", "ANN_CAP": 2.0, "OBJECTID_1": 6, "Province": "Guangdong", "Pop_2007": 94500000.0, "GDP_Yuan": 527199.0, "Trade_Doll": 13257932.0, "Minority": 0.02, "Urban": 0.63, "Area_km": 178341.0, "Pop_Dense": 529.884 }, "geometry": { "type": "Point", "coordinates": [ 116.548229463000098, 23.002794716000039 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "OBJECTID": 4, "NAME_ENG": "Zhuhai LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/zhuhai-cnooc-lng-terminal", "ANN_CAP": 3.7, "OBJECTID_1": 6, "Province": "Guangdong", "Pop_2007": 94500000.0, "GDP_Yuan": 527199.0, "Trade_Doll": 13257932.0, "Minority": 0.02, "Urban": 0.63, "Area_km": 178341.0, "Pop_Dense": 529.884 }, "geometry": { "type": "Point", "coordinates": [ 113.253382133000059, 21.895487436000053 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "OBJECTID": 5, "NAME_ENG": "Beihai LNG", "LINK": "http:\/\/house.gxnews.com.cn\/staticpages\/20111128\/newgx4ed33c73-4377915.shtml", "ANN_CAP": 1.0, "OBJECTID_1": 7, "Province": "Guangxi", "Pop_2007": 47700000.0, "GDP_Yuan": 12491.0, "Trade_Doll": 6668.0, "Minority": 0.38, "Urban": 0.36, "Area_km": 235001.0, "Pop_Dense": 202.978 }, "geometry": { "type": "Point", "coordinates": [ 109.084294559000057, 21.468257612000059 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "OBJECTID": 6, "NAME_ENG": "Hainan Yangpu LNG", "LINK": "http:\/\/en.cnooc.com.cn\/data\/html\/news\/2011-08-02\/english\/302477.html", "ANN_CAP": 3.0, "OBJECTID_1": 9, "Province": "Hainan", "Pop_2007": 8500000.0, "GDP_Yuan": 14477.0, "Trade_Doll": 2846.0, "Minority": 0.17, "Urban": 0.47, "Area_km": 60438.0, "Pop_Dense": 140.64 }, "geometry": { "type": "Point", "coordinates": [ 109.168638689000034, 19.764797153000075 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "OBJECTID": 7, "NAME_ENG": "Tangshan Caofeidian LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/tangshan-lng-terminal", "ANN_CAP": 3.5, "OBJECTID_1": 10, "Province": "Hebei", "Pop_2007": 69400000.0, "GDP_Yuan": 19746.0, "Trade_Doll": 18531.0, "Minority": 0.04, "Urban": 0.4, "Area_km": 187240.0, "Pop_Dense": 370.647 }, "geometry": { "type": "Point", "coordinates": [ 118.513489992000018, 38.923378368000044 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "OBJECTID": 8, "NAME_ENG": "Dalian LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/dalian-lng-terminal", "ANN_CAP": 3.5, "OBJECTID_1": 18, "Province": "Liaoning", "Pop_2007": 43000000.0, "GDP_Yuan": 25648.0, "Trade_Doll": 48390.0, "Minority": 0.16, "Urban": 0.59, "Area_km": 147451.0, "Pop_Dense": 291.622 }, "geometry": { "type": "Point", "coordinates": [ 121.647140455000113, 38.966291795000075 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "OBJECTID": 9, "NAME_ENG": "Shanghai Zhongmentang LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/shanghai-lng-terminal", "ANN_CAP": 6.0, "OBJECTID_1": 24, "Province": "Shanghai", "Pop_2007": 18600000.0, "GDP_Yuan": 65602.0, "Trade_Doll": 227524.0, "Minority": 0.01, "Urban": 0.89, "Area_km": 6500.0, "Pop_Dense": 2861.54 }, "geometry": { "type": "Point", "coordinates": [ 122.12738464600011, 30.599513409000053 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "OBJECTID": 10, "NAME_ENG": "Zhejiang Ningbo LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/zhejiang-ningbo-lng-terminal", "ANN_CAP": 3.0, "OBJECTID_1": 0, "Province": null, "Pop_2007": 0.0, "GDP_Yuan": 0.0, "Trade_Doll": 0.0, "Minority": 0.0, "Urban": 0.0, "Area_km": 0.0, "Pop_Dense": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 121.734530892000066, 29.976594784000042 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "OBJECTID": 11, "NAME_ENG": "Qingdao Dongjiakou LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/shandong-lng-terminal", "ANN_CAP": 3.5, "OBJECTID_1": 0, "Province": null, "Pop_2007": 0.0, "GDP_Yuan": 0.0, "Trade_Doll": 0.0, "Minority": 0.0, "Urban": 0.0, "Area_km": 0.0, "Pop_Dense": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 119.765132215000108, 35.583943934000047 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "OBJECTID": 12, "NAME_ENG": "Qinzhou LNG", "LINK": "http:\/\/www.platts.com\/RSSFeedDetailedNews\/RSSFeed\/Oil\/7146536", "ANN_CAP": 0.6, "OBJECTID_1": 0, "Province": null, "Pop_2007": 0.0, "GDP_Yuan": 0.0, "Trade_Doll": 0.0, "Minority": 0.0, "Urban": 0.0, "Area_km": 0.0, "Pop_Dense": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 108.621082145000059, 21.701502092000055 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "OBJECTID": 13, "NAME_ENG": "Jiangsu Rudong Yangkou LNG", "LINK": "http:\/\/abarrelfull.wikidot.com\/jiangsu-lng-terminal", "ANN_CAP": 3.5, "OBJECTID_1": 0, "Province": null, "Pop_2007": 0.0, "GDP_Yuan": 0.0, "Trade_Doll": 0.0, "Minority": 0.0, "Urban": 0.0, "Area_km": 0.0, "Pop_Dense": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 121.031331539, 32.534171717000049 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "OBJECTID": 14, "NAME_ENG": "Fangchenggang LNG", "LINK": "http:\/\/house.gxnews.com.cn\/staticpages\/20111128\/newgx4ed33c73-4377915.shtml", "ANN_CAP": 1.0, "OBJECTID_1": 0, "Province": null, "Pop_2007": 0.0, "GDP_Yuan": 0.0, "Trade_Doll": 0.0, "Minority": 0.0, "Urban": 0.0, "Area_km": 0.0, "Pop_Dense": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 108.347210779000079, 21.60689545200006 ] } }
+
+]
+}
